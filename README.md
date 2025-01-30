@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Sharkyboy-dev/Sharkyboy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🦈 SharkyBoy – Meme Coin & NFT Ecosystem on Solana 🚀  
+Welcome to **SharkyBoy's Official GitHub!**  
+## 🌊 What is SharkyBoy?  
+SharkyBoy is a **meme coin & NFT project** built on the **Solana blockchain**, designed for fun, rewards, and community-driven engagement.  
+## 🔹 Project Highlights:  
+- ✅ **Meme Coin ($FIN) on Solana**  
+- ✅ **SharkyBoy NFT Collection Coming Soon**  
+- ✅ **Smart Contracts & Open-Source Development**  
+📢 **Join the #SharkyGang!**  
+🌐 **Website:** [sharkyboy.com](https://sharkyboy.com)  
+🐦 **Twitter:** [@sharkyboycoin](https://twitter.com/sharkyboycoin)  
+💬 **Telegram:** [@sharkyboycoin](https://t.me/sharkyboycoin)
