@@ -8,5 +8,5 @@ SharkyBoy is a **meme coin & NFT project** built on the **Solana blockchain**, d
 - ✅ **Smart Contracts & Open-Source Development**  
 📢 **Join the #SharkyGang!**  
 🌐 **Website:** [sharkyboy.com](https://sharkyboy.com)  
-🐦 **Twitter:** [@sharkyboycoin](https://twitter.com/sharkyboycoin)  
+🐦 **Twitter:** [@sharkyboycoin](https://twitter.com/sharkyboy_nft)  
 💬 **Telegram:** [@sharkyboycoin](https://t.me/sharkyboycoin)
