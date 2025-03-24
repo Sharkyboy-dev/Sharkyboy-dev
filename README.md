@@ -15,7 +15,7 @@ SharkyBoy is a story-driven Solana NFT project where holders help shape the futu
 
 - [Mint Site](https://mint.sharkyboy.com)
 - [Twitter](https://twitter.com/sharkyboy_nft)
-- [Telegram](https://t.me/sharkyboycoin)
+- [Telegram](https://t.me/+BPDvArPswBYyN2Ix)
 - [Website](https://sharkyboy.com)
 
 ## Coming Soon
