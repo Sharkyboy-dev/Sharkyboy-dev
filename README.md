@@ -7,7 +7,7 @@ Welcome to **SharkyLabs** — a blockchain innovation hub building a deep-sea ec
 ## 🌊 Projects & Ecosystem
 
 ### 🎮 SharkyBoy Genesis NFTs
-The official **Genesis collection** of the SharkyVerse — a limited 1,000-piece comic-style NFT drop featuring SharkyBoy and his brothers on their journey through Web3.  
+The official **Genesis collection** of the SharkyVerse — a limited 1,000-piece comic-style NFT drop featuring SharkyBoy on his journey through Web3 to find his lost brothers.
 ✅ Verified on Solana  
 🎨 Comic-book underwater art style  
 🏆 Unlocks exclusive utilities across the SharkyLabs ecosystem  
